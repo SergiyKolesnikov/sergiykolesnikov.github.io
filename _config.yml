@@ -18,14 +18,14 @@ avatar: /images/sergiy.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: kolesnik@fim.uni-passau.de
   facebook:
   flickr:
   github: SergiyKolesnikov
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss # just type anything here for a working RSS icon
   twitter:
   stackoverflow: users/6942134/sergiykolesnikov # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
