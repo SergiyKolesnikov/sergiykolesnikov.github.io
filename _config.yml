@@ -6,7 +6,7 @@
 name: Sergiy Kolesnikov
 
 # Short bio or description (displayed in the header)
-description: Data Engineer, Lynx Analytics, Germany
+description: Data Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/sergiy.png
@@ -18,7 +18,7 @@ avatar: /images/sergiy.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: sergiy.kolesnikov@lynxanalytics.com
+  email:
   facebook:
   flickr:
   github: SergiyKolesnikov
